@@ -19,10 +19,6 @@
         <value>5.59</value>
         <value>5.59</value>
     </array>
-    <item name="modem.controller.idle">0</item>
-    <item name="modem.controller.rx">0</item>
-    <item name="modem.controller.tx">0</item>
-    <item name="modem.controller.voltage">0</item>
     <array name="cpu.clusters.cores">
         <value>6</value>
         <value>2</value>
@@ -97,6 +93,7 @@
         <value>.2</value>
         <value>2</value>
     </array>
+    <item name="bluetooth.controller.voltage">3300</item>
     <item name="modem.controller.sleep">0</item>
     <item name="modem.controller.idle">0</item>
     <item name="modem.controller.rx">0</item>
